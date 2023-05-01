@@ -1,0 +1,115 @@
+{
+  "days": [
+    {
+      "id": 1,
+      "day": 1
+    },
+    {
+      "id": 2,
+      "day": 2
+    },
+    {
+      "id": 3,
+      "day": 3
+    },
+    {
+      "day": 4,
+      "id": 4
+    },
+    {
+      "day": 5,
+      "id": 5
+    },
+    {
+      "day": 6,
+      "id": 6
+    }
+  ],
+  "words": [
+    {
+      "id": 2,
+      "day": 2,
+      "eng": "car",
+      "kor": "자동차",
+      "isDone": false
+    },
+    {
+      "id": 3,
+      "day": 3,
+      "eng": "school",
+      "kor": "학교",
+      "isDone": false
+    },
+    {
+      "id": 4,
+      "day": 4,
+      "eng": "pencil",
+      "kor": "연필",
+      "isDone": false
+    },
+    {
+      "id": 5,
+      "day": 1,
+      "eng": "phone",
+      "kor": "휴대폰",
+      "isDone": true
+    },
+    {
+      "day": "1",
+      "eng": "ball",
+      "kor": "공",
+      "isDone": false,
+      "id": 6
+    },
+    {
+      "day": "1",
+      "eng": "house",
+      "kor": "집",
+      "isDone": false,
+      "id": 8
+    },
+    {
+      "day": "1",
+      "eng": "money",
+      "kor": "돈",
+      "isDone": false,
+      "id": 9
+    },
+    {
+      "day": "3",
+      "eng": "value",
+      "kor": "값",
+      "isDone": false,
+      "id": 10
+    },
+    {
+      "day": 5,
+      "id": 11
+    },
+    {
+      "day": 5,
+      "id": 12
+    },
+    {
+      "day": "6",
+      "eng": "sky",
+      "kor": "하늘",
+      "isDone": false,
+      "id": 13
+    },
+    {
+      "day": "1",
+      "eng": "test",
+      "kor": "시험",
+      "isDone": false,
+      "id": 14
+    },
+    {
+      "day": "1",
+      "eng": "pig",
+      "kor": "돼지",
+      "isDone": false,
+      "id": 15
+    }
+  ]
+}
